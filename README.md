@@ -27,7 +27,6 @@ Information Technology student at **Universitas Brawijaya** | Data Science • M
 ---
 
 ## ⭐ Featured Projects
-> Replace the links with your actual repos.
 
 - **Bicycle Rental Demand Analysis + Dashboard**  
   Seasonal/time-based analysis, segmentation, and interactive **Streamlit** dashboard.
