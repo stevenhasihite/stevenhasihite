@@ -31,20 +31,16 @@ Currently building skills in **analytics, predictive modeling, and experimentati
 > Replace the links with your actual repos.
 
 - **Bicycle Rental Demand Analysis + Dashboard**  
-  Seasonal/time-based analysis, segmentation, and interactive **Streamlit** dashboard.  
-  Repo: https://github.com/<username>/<repo>
+  Seasonal/time-based analysis, segmentation, and interactive **Streamlit** dashboard.
 
-- **Path Finder (A* Algorithm Web App)**  
-  A simple web app using **Python (Flask)** implementing A* shortest path.  
-  Repo: https://github.com/<username>/<repo>
+- **Path Finder (A Algorithm Web App)**  
+  A simple web app using **Python (Flask)** implementing A* shortest path.
 
 - **Spooky Author Identification (NLP Classification)**  
-  TF-IDF + feature engineering; models like Multinomial NB and XGBoost.  
-  Repo: https://github.com/<username>/<repo>
+  TF-IDF + feature engineering; models like Multinomial NB and XGBoost.
 
 - **Carbon Emissions Analysis (CRISP-DM)**  
-  End-to-end DS workflow: EDA → modeling → reporting/presentation.  
-  Repo: https://github.com/<username>/<repo>
+  End-to-end DS workflow: EDA → modeling → reporting/presentation.
 
 ---
 
