@@ -1,6 +1,5 @@
 # Hi, I’m Steven 👋
-Information Technology student at **Universitas Brawijaya** | Data Science • Machine Learning • BI/Dashboards
-Currently building skills in **analytics, predictive modeling, and experimentation mindset (A/B testing concepts).**
+Information Technology student at **Universitas Brawijaya** | Data Science • Machine Learning • BI/Dashboards and currently building skills in **analytics, predictive modeling, and experimentation mindset (A/B testing concepts).**
 
 ---
 
