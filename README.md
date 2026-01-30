@@ -47,6 +47,3 @@ Information Technology student at **Universitas Brawijaya** | Data Science • M
 - LinkedIn: https://linkedin.com/in/stevenhotasisihite/
 
 ---
-
-### Small note
-If you’re here for clean, reproducible projects with readable notebooks and practical insights, you’re in the right place.
